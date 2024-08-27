@@ -52,6 +52,9 @@ h3 {
 }
 
 @media (max-width: 576px) {
+  body {
+    max-width: 600px;
+  }
   .h-1 {
     font-size: 60px;
     text-align: center;
