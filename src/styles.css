@@ -51,6 +51,10 @@ h3 {
   font-weight: 200;
 }
 
+.jc-photo {
+  width: 250px;
+  border-radius: 10px;
+}
 @media (max-width: 576px) {
   body {
     max-width: 600px;
