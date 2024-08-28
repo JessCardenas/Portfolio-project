@@ -33,6 +33,17 @@ h3 {
   font-family: var(--secondary-font);
 }
 
+h4 {
+  font-family: var(--primary-font);
+  font-size: 50px;
+}
+
+p {
+  font-family: var(--secondary-font);
+  font-size: 20px;
+  font-weight: 200;
+}
+
 .hero {
   text-align: center;
 }
@@ -51,10 +62,24 @@ h3 {
   font-weight: 200;
 }
 
+.content-container {
+  margin-top: 150px;
+}
+
+.content {
+  margin: 30px;
+}
+
 .jc-photo {
   width: 250px;
   border-radius: 10px;
 }
+
+.grid {
+  border-radius: 90px;
+  width: 450px;
+}
+
 @media (max-width: 576px) {
   body {
     max-width: 600px;
