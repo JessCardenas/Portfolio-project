@@ -79,6 +79,12 @@ p {
   border-radius: 300px;
   width: 450px;
 }
+.grid-links {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-weight: 300;
+  text-transform: uppercase;
+}
 
 @media (max-width: 576px) {
   body {
